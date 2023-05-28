@@ -1,0 +1,6 @@
+dash==2.10.0
+jupyter_dash==0.4.2
+numpy==1.22.2
+gunicorn
+pandas
+dash-tools
